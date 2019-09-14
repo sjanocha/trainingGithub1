@@ -1,0 +1,2 @@
+To jest pierwszy tekst napisany w pliku testowym.
+Ten plik zostanie zaraz po raz pierwszy wrzucony na serwery github.
