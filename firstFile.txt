@@ -1,2 +1,3 @@
 To jest pierwszy tekst napisany w pliku testowym.
-Ten plik zostanie zaraz po raz pierwszy wrzucony na serwery github.
+Ten plik został już wrzucony na serwery github.
+To jest kolejna linia tekstu, która zostanie dodana w drugim commicie.
